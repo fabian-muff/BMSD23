@@ -1,5 +1,5 @@
 
-# Additional Documents for: "Past Achievements and Future Opportunities in Combining Conceptual Modeling with VR/AR: A Systematic Derivation" [![DOI](https://zenodo.org/badge/todo.svg)](https://zenodo.org/badge/latestdoi/todo)
+# Additional Documents for: "Past Achievements and Future Opportunities in Combining Conceptual Modeling with VR/AR: A Systematic Derivation" [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7794278.svg)](https://doi.org/10.5281/zenodo.7794278)
 
 
 
@@ -11,5 +11,5 @@ The repository contains two webpages
 The repository will also be hosted on Zenodo with a unique DOI. The definitive Zenodo DOI providing the proof that the repository did not change after the submission will be referenced in the final paper (due to double-blind review).
 
 
-The repository is also hosted on Zenodo with a unique DOI. The definitive Zenodo DOI providing the proof that the repository did not change after the submission is referenced in the paper and available here: [![DOI](https://zenodo.org/badge/toso.svg)](https://zenodo.org/badge/latestdoi/todo)
+The repository is also hosted on Zenodo with a unique DOI. The definitive Zenodo DOI providing the proof that the repository did not change after the submission is referenced in the paper and available here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7794278.svg)](https://doi.org/10.5281/zenodo.7794278)
 
